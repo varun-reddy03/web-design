@@ -70,3 +70,12 @@ h1 {
   margin-top: 10px;
   margin-bottom: 3px;
 }
+#footer{
+  background-color: bisque;
+}
+#header{
+  background-color:antiquewhite;
+ margin-left: 0px;
+ margin-right: 0px;
+ margin-bottom:50px;
+}
